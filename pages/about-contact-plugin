@@ -1,0 +1,37 @@
+{
+  "title": "About Contact Plugin",
+  "story": [
+  {
+    "type": "paragraph",
+    "id": "c5b936c976cc5d4a",
+    "text": "Here we describe the purpose of the plugin and include a sample."
+  },
+  {
+    "type": "contact",
+    "id": "aa719f3df5d5bacd",
+    "text": "This is text in the new plugin. You can *double-click* to edit it too."
+  }
+],
+  "journal": [
+  {
+    "type": "create",
+    "item": {
+      "title": "About Contact Plugin",
+      "story": [
+  {
+    "type": "paragraph",
+    "id": "c5b936c976cc5d4a",
+    "text": "Here we describe the purpose of the plugin and include a sample."
+  },
+  {
+    "type": "contact",
+    "id": "aa719f3df5d5bacd",
+    "text": "This is text in the new plugin. You can *double-click* to edit it too."
+  }
+]
+    },
+    "date": 1432820202000,
+    "certificate": "from mkplugin.sh"
+  }
+]
+}
